@@ -1,2 +1,2 @@
 # Vending_Machine--java-
-Vending_Machine- java - est 18-03-2013
+Vending_Machine- java  Est. 18-03-2013
